@@ -14,7 +14,9 @@ Collective works like articles, e-books, documents and collaborations I've writt
 Intrusion Detection Guide - Peerlyst<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf
 <BR /><BR />
-
+Essentials of Cybersecurity - Peerlyst<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf
+<BR /><BR />
 
 
 ## Connect with me at
