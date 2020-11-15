@@ -1,4 +1,19 @@
 # CollectiveWorks
+Collective works like articles, e-books, documents and collaborations I've written over the years.
+<BR /><BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/CISSPTraining">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/CISSPTraining">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/CISSPTraining/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/CISSPTraining">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/CISSPTraining">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/CISSPTraining">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/CISSPTraining">
+<BR /><BR />
+
+## Content
+Intrusion Detection Guide - Peerlyst<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf
+<BR /><BR />
 
 
 
