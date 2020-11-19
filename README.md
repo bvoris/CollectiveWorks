@@ -20,7 +20,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook
 Active Directory_ migrating from 2003 to 2012 R2 enterprise multi-site single forest domain - TechNet Articles - United States (English) - TechNet Wiki.pdf<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_%20migrating%20from%202003%20to%202012%20R2%20enterprise%20multi-site%20single%20forest%20domain%20-%20TechNet%20Articles%20-%20United%20States%20(English)%20-%20TechNet%20Wiki.pdf
 <BR /><BR />
-
+IOT: The Dangers and Technical Security Challenges for the Internet Of Things<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf
+<BR /><BR />
 
 ## Connect with me at
 
