@@ -26,6 +26,13 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf
 Mental Health Resource for Technology and Security Professionals - Peerlyst<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Mental%20Health%20Resource%20for%20Technology%20and%20Security%20Professionals.pdf
 <BR /><BR />
+SettingContent-MS File Execution Vulnerability Exploit - Peerlyst<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20File%20Execution%20Vulnerability%20Exploit.pdf
+<BR /><BR />
+SettingContent-MS lets run PowerShell code and bypass the execution policy.pdf<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20lets%20run%20PowerShell%20code%20and%20bypass%20the%20execution%20policy.pdf
+<BR /><BR />
+
 
 ## Connect with me at
 
