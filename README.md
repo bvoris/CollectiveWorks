@@ -32,7 +32,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%2
 SettingContent-MS lets run PowerShell code and bypass the execution policy.pdf<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20lets%20run%20PowerShell%20code%20and%20bypass%20the%20execution%20policy.pdf
 <BR /><BR />
-
+Social Engineering - Information Gathering via Social Media and other online sources.pdf<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf
+<BR /><BR />
 
 ## Connect with me at
 
