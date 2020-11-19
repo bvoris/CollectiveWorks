@@ -17,6 +17,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Dete
 Essentials of Cybersecurity - Peerlyst<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf
 <BR /><BR />
+Active Directory_ migrating from 2003 to 2012 R2 enterprise multi-site single forest domain - TechNet Articles - United States (English) - TechNet Wiki.pdf<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_%20migrating%20from%202003%20to%202012%20R2%20enterprise%20multi-site%20single%20forest%20domain%20-%20TechNet%20Articles%20-%20United%20States%20(English)%20-%20TechNet%20Wiki.pdf
+<BR /><BR />
 
 
 ## Connect with me at
