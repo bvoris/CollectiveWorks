@@ -23,6 +23,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_
 IOT: The Dangers and Technical Security Challenges for the Internet Of Things<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf
 <BR /><BR />
+Mental Health Resource for Technology and Security Professionals - Peerlyst<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Mental%20Health%20Resource%20for%20Technology%20and%20Security%20Professionals.pdf
+<BR /><BR />
 
 ## Connect with me at
 
