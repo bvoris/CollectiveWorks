@@ -35,6 +35,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%2
 Social Engineering - Information Gathering via Social Media and other online sources.pdf<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf
 <BR /><BR />
+Valheim Seed World Jumping: Exploitation of encumbrance and portal restrictions<BR />
+https://www.linkedin.com/pulse/valheim-seed-world-jumping-exploitation-encumbrance-portal-brad-voris/
+<BR /><BR />
 
 ## Collaborative Works
 Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
