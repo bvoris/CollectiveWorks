@@ -36,6 +36,16 @@ Social Engineering - Information Gathering via Social Media and other online sou
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf
 <BR /><BR />
 
+## Collaborative Works
+Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
+By Monique Nicholson-Apatow<BR />
+https://www.linkedin.com/pulse/covid-19-what-initiatives-should-your-organization-nicholson-apatow/
+<BR /><BR />
+Ransomware: To pay or not to pay<BR />
+By Kevin Kentner<BR />
+https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/
+<BR /><BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
