@@ -35,7 +35,9 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%2
 Social Engineering - Information Gathering via Social Media and other online sources.pdf<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf
 <BR /><BR />
-
+Building Better Queries in Shodan.io For Better Reporting<BR />
+https://www.linkedin.com/pulse/building-better-queries-shodanio-reporting-brad-voris/
+<BR /><BR />
 
 ## Collaborative Works
 Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
