@@ -58,6 +58,9 @@ Ransomware: To pay or not to pay<BR />
 By Kevin Kentner<BR />
 https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/
 <BR /><BR />
+HTTP Headers for the Security Professional<BR />
+https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/
+<BR /><BR />
 
 ## Peer Review and Content Editor
 Top Threats to Cloud Computing 2019 Report<BR />
