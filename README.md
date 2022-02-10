@@ -12,10 +12,10 @@ Collective works like articles, e-books, documents and collaborations I've writt
 
 ## Content
 ## Peerlyst - eBook Chapters
-Intrusion Detection Guide - Peerlyst<BR />
+Intrusion Detection Guide - Peerlyst (Chapter 10 Compliance Frameworks)<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf
 <BR /><BR />
-Essentials of Cybersecurity - Peerlyst<BR />
+Essentials of Cybersecurity - Peerlyst (Chapter 8 Understanding Central Areas of Enterprise Defense)<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf
 
 ## Misc Microsoft, LinkedIn, Peerlyst Publications
