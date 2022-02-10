@@ -38,6 +38,12 @@ https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineerin
 Building Better Queries in Shodan.io For Better Reporting<BR />
 https://www.linkedin.com/pulse/building-better-queries-shodanio-reporting-brad-voris/
 <BR /><BR />
+PowerShell Script Execution via Cmd.exe Relative Path PoC<BR />
+https://www.linkedin.com/pulse/powershell-script-execution-via-cmdexe-relative-path-poc-brad-voris/
+<BR /><BR />
+Security RSS Feeds<BR />
+https://www.linkedin.com/pulse/security-rss-feeds-brad-voris/
+<BR /><BR />
 
 ## Collaborative Works
 Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
@@ -47,6 +53,16 @@ https://www.linkedin.com/pulse/covid-19-what-initiatives-should-your-organizatio
 Ransomware: To pay or not to pay<BR />
 By Kevin Kentner<BR />
 https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/
+<BR /><BR />
+
+## Peer Review and Content Editor
+Top Threats to Cloud Computing 2019 Report<BR />
+https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-egregious-eleven/?utm_source=linkedin
+<BR /><BR />
+
+## Quotes and References
+Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches<BR />
+https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf
 <BR /><BR />
 
 ## Connect with me at
