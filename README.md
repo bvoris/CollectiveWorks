@@ -49,6 +49,10 @@ https://www.linkedin.com/pulse/security-rss-feeds-brad-voris/
 If you don't take your own company's cyber security seriously, someone else will.<BR />
 https://www.linkedin.com/pulse/you-dont-take-your-own-companys-cyber-security-seriously-brad-voris
 <BR /><BR />
+HTTP Headers for the Security Professional<BR />
+https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/
+<BR /><BR />
+
 ## Collaborative Works
 Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
 By Monique Nicholson-Apatow<BR />
@@ -57,9 +61,6 @@ https://www.linkedin.com/pulse/covid-19-what-initiatives-should-your-organizatio
 Ransomware: To pay or not to pay<BR />
 By Kevin Kentner<BR />
 https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/
-<BR /><BR />
-HTTP Headers for the Security Professional<BR />
-https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/
 <BR /><BR />
 
 ## Peer Review and Content Editor
