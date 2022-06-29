@@ -11,6 +11,10 @@ Collective works like articles, e-books, documents and collaborations I've writt
 <BR /><BR />
 
 ## Content
+## Blog
+MY Professional Blog<BR />
+https://bvoris.github.io/
+
 ## Peerlyst - eBook Chapters
 Intrusion Detection Guide - Peerlyst (Chapter 10 Compliance Frameworks)<BR />
 https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf
