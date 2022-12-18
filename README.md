@@ -77,6 +77,11 @@ Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of ma
 https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf
 <BR /><BR />
 
+## Featured in
+Top Cyber News Magazine - December 2022<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf
+<BR /><BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
