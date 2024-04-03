@@ -71,6 +71,10 @@ https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/
 Top Threats to Cloud Computing 2019 Report<BR />
 https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-egregious-eleven/?utm_source=linkedin
 <BR /><BR />
+Complete Guide to Security Operation Center<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-1.pdf<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-2.pdf<BR />
+<BR /><BR />
 
 ## Quotes and References
 Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches<BR />
