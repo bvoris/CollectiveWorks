@@ -57,6 +57,11 @@ HTTP Headers for the Security Professional<BR />
 https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/
 <BR /><BR />
 
+## College Publications
+Wilmington University: Strengthening National Security: Assessing the Adequacy of the U.S. Federal Government Efforts in Securing Public Infrastructure<BR />
+https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Strengthening%20National%20Security%20-%20%20Assessing%20the%20Adequacy%20of%20the%20U.S.%20Federal%20Government%20Efforts%20in%20Securing%20Public%20Infrastructure%20By%20Brad%20Voris.pdf
+<BR /><BR />
+
 ## Collaborative Works
 Covid-19 What Initiatives should your organization take from a cyber security perspective<BR />
 By Monique Nicholson-Apatow<BR />
